@@ -10,7 +10,6 @@
      ```
      irm https://get.activated.win | iex
      ```
-	- **Script not launching? Use the below-listed Method 2.**
 
 3. In the menu that appears, type the number corresponding to one of the **Green** options.
 
