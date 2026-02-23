@@ -10,7 +10,6 @@
      ```
      irm https://get.activated.win | iex
      ```
-	 If the above is blocked (by ISP/DNS), try this (needs updated Windows 10 or 11):  
 	 ```
 	 iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win | Out-String)
 	 ```
