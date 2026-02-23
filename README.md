@@ -1,8 +1,5 @@
 
 <h1 align="center">Microsoft  Activation  Scripts</h1>
-  
-## How to Activate Windows / Office / Extended Security Updates (ESU)?
-
 ### Method 1 - PowerShell ❤️
 
 1. Click the **Start Menu**, type `PowerShell`, and open it.
