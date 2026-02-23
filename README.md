@@ -1,7 +1,5 @@
 
 <h1 align="center">Microsoft  Activation  Scripts</h1>
-
-<hr>
   
 ## How to Activate Windows / Office / Extended Security Updates (ESU)?
 
