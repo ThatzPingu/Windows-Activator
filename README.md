@@ -1,5 +1,6 @@
 
 <h1 align="center">Microsoft  Activation  Scripts</h1>
+
 ### Method 1 - PowerShell ❤️
 
 1. Click the **Start Menu**, type `PowerShell`, and open it.
